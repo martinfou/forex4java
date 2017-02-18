@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.util.Date;
 
 public class MyStrategy extends com.jfx.strategy.Strategy{
+	private Date lastBarTimeStamp = new Date();
     public void init(String symbol, int period, StrategyRunner strategyRunner) {
         try {
             System.out.println("init method");
@@ -41,11 +42,31 @@ public class MyStrategy extends com.jfx.strategy.Strategy{
 		orderLots, orderMagicNumber, orderModify, orderOpenPrice, orderOpenTime, orderPrint, orderProfit, orderSelect, orderSend,ordersHistoryTotal, orderStopLoss, ordersTotal, orderSwap, orderSymbol, orderTakeProfit, orderTicket, orderType, print,
 		refreshRates, seconds, timeCurrent, year
 		*/
-    	try{
-            System.out.println("Time " + timeCurrent() + " " + iTime(getSymbol(), getTimeframe(), 0));
-        }
-        catch(Exception e){
-        	System.out.println(e.getMessage());
-        }
+    	try {
+    		if(isNewBar()){
+        		System.out.println("this is a new bar");
+        	}
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+    	
+    	
+    }
+    
+    public boolean isNewBar(){
+    	try {
+    		Date currentBarTimeStamp = iTime(getSymbol(), getTimeframe(), 0);
+			if(!currentBarTimeStamp.equals(lastBarTimeStamp)){
+				lastBarTimeStamp=iTime(getSymbol(), getTimeframe(), 0);
+				return true;
+			}
+		} catch (ErrHistoryWillUpdated e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ErrUnknownSymbol e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+    	return false;
     }
 }
