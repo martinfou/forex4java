@@ -1,0 +1,88 @@
+17 18:03:36 |     NJ4X-1 | INFO  | Client EURUSD.1.16384()/16 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:03:40 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1.16384()/16 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=218808/317130] disconnected
+17 18:03:40 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1.16384()/16 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=218808/317142] disconnected
+17 18:19:11 |     NJ4X-3 | INFO  | Client EURUSD.1440.16384()/17 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:19:12 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/17 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/198] disconnected
+17 18:19:12 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/17 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/207] disconnected
+17 18:19:36 |     NJ4X-3 | INFO  | Client EURUSD.1440.16384()/18 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:19:37 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/18 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/198] disconnected
+17 18:19:37 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/18 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/207] disconnected
+17 18:20:15 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/19 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:20:16 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/19 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=166/455] disconnected
+17 18:21:28 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/20 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:21:29 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/20 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=166/455] disconnected
+17 18:27:22 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/21 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:27:23 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/21 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=127/212] disconnected
+17 18:30:14 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/22 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:30:15 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/22 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/566] disconnected
+17 18:30:15 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/22 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/575] disconnected
+17 18:31:43 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/23 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:31:44 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/23 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/574] disconnected
+17 18:31:44 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/23 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/583] disconnected
+17 18:31:50 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/24 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:31:51 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/24 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/574] disconnected
+17 18:31:51 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/24 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/583] disconnected
+17 18:33:28 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/25 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:33:29 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/25 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/590] disconnected
+17 18:33:29 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/25 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/599] disconnected
+17 18:34:19 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/26 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:34:20 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/26 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/620] disconnected
+17 18:34:20 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/26 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/629] disconnected
+17 18:35:22 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/27 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:35:23 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/27 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/566] disconnected
+17 18:35:23 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/27 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=124/575] disconnected
+17 18:37:17 |     NJ4X-1 | INFO  | Client EURUSD.1440.16384()/28 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 18:37:18 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/28 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/550] disconnected
+17 18:37:18 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.16384()/28 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/559] disconnected
+17 19:10:07 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/29 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:10:08 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/29 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/544] disconnected
+17 19:10:08 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/29 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/553] disconnected
+17 19:11:07 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/30 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:11:08 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/30 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/546] disconnected
+17 19:11:08 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/30 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/555] disconnected
+17 19:11:22 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/31 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:11:23 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/31 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/546] disconnected
+17 19:11:23 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/31 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/555] disconnected
+17 19:15:07 |     NJ4X-2 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/32 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:15:08 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/32 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/546] disconnected
+17 19:15:08 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/32 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/555] disconnected
+17 19:15:28 |     NJ4X-2 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/33 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:15:31 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/33 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/546] disconnected
+17 19:15:31 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/33 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=114/555] disconnected
+17 19:20:33 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/34 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:20:35 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/34 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/458] disconnected
+17 19:20:35 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/34 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/467] disconnected
+17 19:21:34 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/35 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:21:36 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/35 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/458] disconnected
+17 19:21:36 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/35 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/467] disconnected
+17 19:22:09 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/36 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:22:11 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/36 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/458] disconnected
+17 19:22:11 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/36 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=143/467] disconnected
+17 19:22:44 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/37 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:22:46 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/37 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/452] disconnected
+17 19:22:46 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/37 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/461] disconnected
+17 19:24:11 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/38 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:24:13 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/38 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/452] disconnected
+17 19:24:13 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/38 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/461] disconnected
+17 19:25:00 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/39 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:25:02 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/39 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/452] disconnected
+17 19:25:02 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/39 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/461] disconnected
+17 19:26:03 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/40 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 19:26:05 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/40 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/452] disconnected
+17 19:26:05 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/40 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=140/461] disconnected
+17 19:27:20 |     NJ4X-2 | INFO  | Client EURUSD.15.20019655(International Capital Markets Pty Ltd.)/41 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:48:44 |     NJ4X-1 | INFO  | Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/42 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:48:46 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/42 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=7136/25035] disconnected
+17 23:50:02 |     NJ4X-1 | INFO  | Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/43 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:50:03 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/43 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=7136/25035] disconnected
+17 23:53:40 |     NJ4X-1 | INFO  | Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/44 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:53:42 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1.20019655(International Capital Markets Pty Ltd.)/44 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=10625/37855] disconnected
+17 23:57:02 |     NJ4X-1 | INFO  | Client EURUSD.60.20019655(International Capital Markets Pty Ltd.)/45 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:57:03 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.60.20019655(International Capital Markets Pty Ltd.)/45 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=2516/10962] disconnected
+17 23:57:03 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.60.20019655(International Capital Markets Pty Ltd.)/45 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=2516/10972] disconnected
+17 23:58:02 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/46 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:58:03 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/46 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=33/139] disconnected
+17 23:58:03 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/46 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=33/147] disconnected
+17 23:58:23 |     NJ4X-1 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/47 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+17 23:58:24 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/47 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=33/139] disconnected
+17 23:58:24 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/47 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=33/147] disconnected

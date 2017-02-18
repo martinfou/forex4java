@@ -1,0 +1,186 @@
+15 17:16:23 |     NJ4X-1 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:17:58 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=511/611] disconnected
+15 17:17:58 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=511/611] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.accountBalance(MT4.java:1335)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:13)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:17:58 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=511/620] disconnected
+15 17:19:15 |     NJ4X-2 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:19:19 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 17:19:19 |     NJ4X-2 | ERROR | Coordination error (NJ4X-2)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.accountBalance(MT4.java:1335)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:13)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:19:19 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 17:19:39 |     NJ4X-2 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/2 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:19:43 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/2 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 17:19:43 |     NJ4X-2 | ERROR | Coordination error (NJ4X-2)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/2 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.accountBalance(MT4.java:1335)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:13)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:19:43 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/2 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 17:42:49 |     NJ4X-3 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/3 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:42:53 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/3 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 17:42:53 |     NJ4X-3 | ERROR | Coordination error (NJ4X-3)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/3 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.accountBalance(MT4.java:1335)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:13)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:42:53 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/3 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 17:44:18 |     NJ4X-1 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/4 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:44:22 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/4 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 17:44:22 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/4 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.accountBalance(MT4.java:1335)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:13)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:44:22 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/4 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 17:51:41 |     NJ4X-1 | INFO  | Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/5 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:52:04 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/5 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/153] disconnected
+15 17:52:04 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/5 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/153] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:52:04 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/5 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/162] disconnected
+15 17:54:42 |     NJ4X-1 | INFO  | Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/6 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:54:43 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/6 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/153] disconnected
+15 17:54:43 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/6 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/153] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:54:43 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.240.20019655(International Capital Markets Pty Ltd.)/6 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=118/162] disconnected
+15 17:55:30 |     NJ4X-1 | INFO  | Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/7 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:55:31 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/7 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/558] disconnected
+15 17:55:31 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/7 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/558] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:55:31 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/7 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/567] disconnected
+15 17:55:45 |     NJ4X-1 | INFO  | Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/8 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:55:46 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/8 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/558] disconnected
+15 17:55:46 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/8 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/558] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:55:46 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/8 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=460/567] disconnected
+15 17:56:20 |     NJ4X-1 | INFO  | Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/9 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:56:21 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/9 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=916/1098] disconnected
+15 17:56:21 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/9 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=916/1098] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:56:21 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.60.20019655(International Capital Markets Pty Ltd.)/9 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=916/1107] disconnected
+15 17:56:58 |     NJ4X-1 | INFO  | Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/10 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:56:59 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/10 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4624] disconnected
+15 17:56:59 |     NJ4X-1 | ERROR | Coordination error (NJ4X-1)
+com.jfx.strategy.MT4DisconnectException: MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/10 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4624] disconnected
+	at com.jfx.strategy.MT4TerminalConnection.sendCommandGetResult(MT4TerminalConnection.java:372)
+	at com.jfx.MT4.marketInfo(MT4.java:2040)
+	at com.jfx.MyStrategy.coordinate(MyStrategy.java:12)
+	at com.jfx.strategy.BasicStrategyRunner.run(BasicStrategyRunner.java:429)
+	at com.jfx.strategy.MT4TerminalConnection.run(MT4TerminalConnection.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+15 17:56:59 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/10 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4634] disconnected
+15 17:58:26 |     NJ4X-1 | INFO  | Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/11 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 17:58:27 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/11 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4624] disconnected
+15 17:58:27 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/11 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4634] disconnected
+15 18:05:27 |     NJ4X-2 | INFO  | Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/12 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 18:05:28 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/12 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4624] disconnected
+15 18:05:28 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/12 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=3652/4634] disconnected
+15 18:05:56 |     NJ4X-2 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/13 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 18:05:57 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/13 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 18:05:57 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/13 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 18:06:10 |     NJ4X-2 | INFO  | Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/14 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 18:06:11 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/14 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/33] disconnected
+15 18:06:11 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client USDCAD.1440.20019655(International Capital Markets Pty Ltd.)/14 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=17/41] disconnected
+15 18:56:08 |     NJ4X-3 | INFO  | Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 18:56:20 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=1076430/1616873] disconnected
+15 18:56:20 |     NJ4X-3 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/0 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=1076430/1616886] disconnected
+15 18:57:26 |     NJ4X-1 | INFO  | Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 18:57:38 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=1076430/1616873] disconnected
+15 18:57:38 |     NJ4X-1 | INFO  | MT4TerminalConnection: Client USDCAD.15.20019655(International Capital Markets Pty Ltd.)/1 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=1076430/1616886] disconnected
+15 21:13:23 |     NJ4X-2 | INFO  | Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/15 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,02.6.4 connected.
+15 21:13:24 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/15 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/198] disconnected
+15 21:13:24 |     NJ4X-2 | INFO  | MT4TerminalConnection: Client EURUSD.1440.20019655(International Capital Markets Pty Ltd.)/15 MQLv2.6.4@com.jfx.MyStrategy:0,0,0,0,0,0,0,0,0,0 [i/o=156/207] disconnected
