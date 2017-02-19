@@ -24,8 +24,8 @@
 			<version>1.2.17</version>
 		</dependency>
 		<dependency>
-			<groupId>jfx</groupId>
-			<artifactId>jfx</artifactId>
+			<groupId>com.jfx</groupId>
+			<artifactId>com.jfx</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/lib/jfx-2.6.4.jar</systemPath>
