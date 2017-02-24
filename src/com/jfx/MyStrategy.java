@@ -1,21 +1,16 @@
 package com.jfx;
 
-import com.jfx.ErrUnknownSymbol;
-import com.jfx.MarketInfo;
-import com.jfx.strategy.StrategyRunner;
-
 import java.io.IOException;
 import java.util.Date;
 
-import org.apache.log4j.Logger;
+import com.jfx.strategy.StrategyRunner;
 
 public class MyStrategy extends com.jfx.strategy.Strategy{
-	Logger logger = Logger.getLogger(MyStrategy.class);
+
 	static Date lastBarTime; 
     public void init(String symbol, int period, StrategyRunner strategyRunner) {
         try {
             System.out.println("init method");
-            logger.info("testing logger");
             lastBarTime = new Date();
             super.init(symbol, period, strategyRunner);
         } catch (ErrUnknownSymbol e) {
@@ -48,40 +43,11 @@ public class MyStrategy extends com.jfx.strategy.Strategy{
 		refreshRates, seconds, timeCurrent, year
 		*/
     	
-    	if(isNewBar())
-    	{
-    		//logger.info("Got a new bar");
-    		try {
-				long ticketNo = orderSend(
-				        symbol,
-				        TradeOperation.OP_BUY,
-				        0.01,
-				        marketInfo(symbol, MarketInfo.MODE_ASK),
-				        10,
-				        marketInfo(symbol, MarketInfo.MODE_ASK)-0.0005, 
-				        marketInfo(symbol, MarketInfo.MODE_ASK)+0.0005, "comment", 0, null
-				);
-			} catch (ErrInvalidFunctionParamvalue | ErrCustomIndicatorError | ErrStringParameterExpected
-					| ErrIntegerParameterExpected | ErrUnknownSymbol | ErrInvalidPriceParam | ErrTradeNotAllowed
-					| ErrLongsNotAllowed | ErrShortsNotAllowed | ErrCommonError | ErrInvalidTradeParameters
-					| ErrServerBusy | ErrOldVersion | ErrNoConnection | ErrTooFrequentRequests | ErrAccountDisabled
-					| ErrInvalidAccount | ErrTradeTimeout | ErrInvalidPrice | ErrInvalidStops | ErrInvalidTradeVolume
-					| ErrMarketClosed | ErrTradeDisabled | ErrNotEnoughMoney | ErrPriceChanged | ErrOffQuotes
-					| ErrRequote | ErrOrderLocked | ErrLongPositionsOnlyAllowed | ErrTooManyRequests | ErrTradeTimeout2
-					| ErrTradeTimeout3 | ErrTradeTimeout4 | ErrTradeModifyDenied | ErrTradeContextBusy
-					| ErrTradeExpirationDenied | ErrTradeTooManyOrders e) {
-				logger.error(e.getMessage());
-			}	
-    	}
+
     	
-    	try{
- 
-    	}
-        catch(Exception e){
-        	System.out.println(e.getMessage());
-        }
     }
     
+
     private boolean isNewBar(){
     	try {
     		
@@ -92,7 +58,6 @@ public class MyStrategy extends com.jfx.strategy.Strategy{
 				return true;
 			}
 		} catch (ErrHistoryWillUpdated e) {
-			logger.info("testing logger");
 			e.printStackTrace();
 		} catch (ErrUnknownSymbol e) {
 			// TODO Auto-generated catch block
