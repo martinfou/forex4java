@@ -1,0 +1,1 @@
+java -Dnj4x_activation_key=1445686754 -cp .:lib/* com.jfx.MyApplication
